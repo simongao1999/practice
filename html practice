@@ -1,0 +1,23 @@
+<!doctype html> 
+<html>
+  <head> 
+    <meta charset="utf-8">
+    <title>Practice</title> 
+  </head>
+  <body> 
+    <main> 
+      <header> 
+        <h1>Simon Gao</h1> 
+        <p>Some information about me</p> 
+      </header> 
+      <section> 
+        <h2>Hobbies</h2> 
+        <ul> 
+          <li>Basketball</li>
+          <li>Photography</li>
+          <li>Hiking</li>
+        </ul> 
+      </section> 
+    </main>
+  </body> 
+</html> 
